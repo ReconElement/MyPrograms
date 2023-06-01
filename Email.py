@@ -2,9 +2,7 @@ import ssl
 import smtplib
 from email.message import EmailMessage
 import random
-email_sender='omkarpanda895@gmail.com'
-email_password=
-email_reciever='resonadlpd@gmail.com'
+
 subject='3 step verification'
 rand_num=random.randint(100000,999999)
 body="Your code is: "
