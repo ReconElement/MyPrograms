@@ -24,3 +24,4 @@ if(int(ch)==int(rand_num)):
     print("Valid code")
 else:
     print("Invalid code")
+
