@@ -1,0 +1,7 @@
+x=19
+z=90
+print(x+z)
+print("The sum is ",x+z)
+print("My name is poggy")
+name="poggy"
+print("My name is ",name)
