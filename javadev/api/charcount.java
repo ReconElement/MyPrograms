@@ -32,7 +32,6 @@ public class charcount {
                 chc[i] = count(s, chr);
             }
         }
-        int count[] = new int[s.length()];
         for (int i = 0; i < s.length(); i++) {
             if (isFoundAfterIndex(s, i + 1, s.charAt(i)) == true) {
                 continue;
